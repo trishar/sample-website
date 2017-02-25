@@ -1,0 +1,24 @@
+h1{
+	color:purple;
+	font-size:50px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-left: 35%;
+}
+
+h3{
+	color:pink;
+	font-size:30px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+img{
+	margin-left: 35%;
+	width: 30%;
+	border-width: 10px;
+	border-style:solid;
+	border-color:indigo;
+}
+
+#shiny{
+	color: gold;
+}
